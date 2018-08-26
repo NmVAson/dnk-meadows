@@ -223,3 +223,7 @@ footer {
     position: absolute;
     right: 12px;
 }
+
+div.freebirdFormviewerViewFormBanner.freebirdHeaderMast {
+    height: 120px;
+}

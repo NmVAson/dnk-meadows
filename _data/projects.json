@@ -2,15 +2,15 @@
 	{
 		"name": "Kentucky Proud",
 		"image": "kyproud-logo.gif",
-		"url": "badges/",
+		"url": "/badges/",
 		"date": "March 2018",
 		"tags": []
 	},
 	{
 		"name": "Other Badge",
 		"image": "placeholder.jpg",
-		"url": "badges/",
-		"date": "May 2014",
-		"tags": ["Android","PHP"]
+		"url": "/badges/",
+		"date": "N/A",
+		"tags": []
 	}
 ]

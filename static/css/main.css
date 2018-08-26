@@ -43,10 +43,12 @@ p.info a {
     margin-left: 15px;
 }
 .full img{
-    display: block;
-    max-width: 100%;
+    display: inline-block;
+    width: 75px;
     height: auto;
 }
+
+.well
 .social-icons {
     margin: 20px 0 0;
 }
@@ -220,12 +222,4 @@ footer {
     color: #BBB;
     position: absolute;
     right: 12px;
-}
-
-.well h1 {
-    display: inline-block;
-}
-
-.well img {
-    width: 50px;
 }

@@ -2,14 +2,14 @@
 	{
 		"name": "Kentucky Proud",
 		"image": "kyproud-logo.gif",
-		"url": "/badges/",
+		"url": "ky",
 		"date": "March 2018",
 		"tags": []
 	},
 	{
 		"name": "Other Badge",
 		"image": "placeholder.jpg",
-		"url": "/badges/",
+		"url": "other",
 		"date": "N/A",
 		"tags": []
 	}

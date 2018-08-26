@@ -14,5 +14,10 @@
     "text": "Badges",
     "url": "/badges/",
     "icon": "fa-graduation-cap"
+  },
+  {
+    "text": "Tours",
+    "url": "/tours/",
+    "icon": "fa-map-marked-alt"
   }
 ]

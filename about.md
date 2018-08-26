@@ -4,6 +4,6 @@ title: About
 permalink: /about/
 ---
 
-# About ![David](/static/img/david.png | width=50) & ![Karen](/static/img/karen.png | width=50)
+# About ![David](/static/img/david.png) & ![Karen](/static/img/karen.png)
 
 Cage free? We prefer a predator free environment for our lambs. 

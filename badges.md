@@ -4,4 +4,4 @@ title: Badges
 permalink: /badges/
 ---
 
-Few of things that make us proud.
+A few of things that make us proud.

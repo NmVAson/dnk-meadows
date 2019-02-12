@@ -11,6 +11,11 @@
     "icon": "fa-comments"
   },
   {
+    "text": "Photos",
+    "url": "/photos/",
+    "icon": "fa-photo"
+  },
+  {
     "text": "Badges",
     "url": "/badges/",
     "icon": "fa-graduation-cap"

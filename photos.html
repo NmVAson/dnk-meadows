@@ -7,9 +7,9 @@ permalink: /photos/
 <style>
     .image-gallery {
         display: grid;
-        grid-template-columns: repeat(auto-fill, 1fr);
         grid-gap: 10px;
-        grid-auto-flow: dense;
+        grid-template-columns: repeat(3, 1fr);
+        grid-auto-rows: minmax(100px, auto);
     }
     .image-gallery img {
         width: 100%;

@@ -47,7 +47,9 @@ p.info a {
     width: 75px;
     height: auto;
 }
-
+.post img {
+    width: 100%;
+}
 .well
 .social-icons {
     margin: 20px 0 0;
@@ -232,4 +234,13 @@ footer {
 
 div.freebirdFormviewerViewFormBanner.freebirdHeaderMast {
     height: 120px;
+}
+
+#share ul {     
+    list-style-type: none;
+    display: grid;
+    grid-auto-flow: column;
+    justify-items: center;
+    justify-content: center;
+    grid-gap: 10px;
 }

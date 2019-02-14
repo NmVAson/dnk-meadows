@@ -5,7 +5,7 @@
     "icon": "fa-home"
   },
   {
-    "text": "Posts",
+    "text": "News",
     "url": "/",
     "icon": "fa-comments",
     "layout": "post"

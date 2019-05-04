@@ -27,9 +27,7 @@
             {% endif %}
             </div>
             <p class="info">
-              {% if page.date %}
-                <span class="time">{{ page.date | date_to_string }}</span>
-              {% endif %}
+                <span class="time">{{date_to_string}}</span>
               {% if page.categories.size > 0 %}
                 <span class="categories">
                   &raquo; 

@@ -57,9 +57,6 @@ p.info a {
 .well {
     overflow: hidden;
 }
-.well iframe {
-    margin-top: -100px;
-}
 .icon {
     background: rgba(255, 255, 255, 0.63);
     border-radius: 100%;
@@ -243,6 +240,7 @@ div.freebirdFormviewerViewFormBanner.freebirdHeaderMast {
     justify-items: center;
     justify-content: center;
     grid-gap: 10px;
+    padding: 10px;
 }
 
 #email-form {

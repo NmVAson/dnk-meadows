@@ -27,7 +27,7 @@
             {% endif %}
             </div>
             <p class="info">
-                <span class="time">{{date_to_string}}</span>
+                <span class="time">{{ post.date | date_to_string }}</span>
               {% if page.categories.size > 0 %}
                 <span class="categories">
                   &raquo; 

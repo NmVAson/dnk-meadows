@@ -1,7 +1,6 @@
 ---
 layout: post
 title: Hello!
-date: 2018-08-26 14:33:00
 categories: others
 ---
 

@@ -1,7 +1,6 @@
 ---
 layout: post
 title: Lambing season is in full swing!
-date: 2019-02-12 8:30:00
 categories: lambing
 ---
 
